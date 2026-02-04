@@ -1,3 +1,3 @@
 print("Helo World")
 x = 10;
-print("i'm wating")
+print(f"i'm wating {x}")
